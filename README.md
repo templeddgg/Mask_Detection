@@ -6,5 +6,5 @@ Real-time face mask detection using YOLOv8.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/Mask_Detection.git
+git clone https://github.com/templeddgg/Mask_Detection.git
 cd Mask_Detection
